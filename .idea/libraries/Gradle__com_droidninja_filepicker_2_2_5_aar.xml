@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.droidninja:filepicker:2.2.5@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/51adf0797e5829c069e8e309f57f4f6f/transformed/jetified-filepicker-2.2.5/res" />
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/51adf0797e5829c069e8e309f57f4f6f/transformed/jetified-filepicker-2.2.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/51adf0797e5829c069e8e309f57f4f6f/transformed/jetified-filepicker-2.2.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/modules-2/files-2.1/com.droidninja/filepicker/2.2.5/3768ecee7df70b0ee22ed9443c30d28539c9cb06/filepicker-2.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/modules-2/files-2.1/com.droidninja/filepicker/2.2.5/83c2662789c5661571091ac9b6806f1d968f658e/filepicker-2.2.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/fc8964b3b9031345b78d8706e1d066ed/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/res" />
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/fc8964b3b9031345b78d8706e1d066ed/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/fc8964b3b9031345b78d8706e1d066ed/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.5.1/11f7a8fab7793634b9cc07891180c35fbf4315c/lifecycle-viewmodel-savedstate-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

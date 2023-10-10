@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-stats:17.0.2@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/0ea2b616c3b02806beaf4ac8fa5ec1b7/transformed/jetified-play-services-stats-17.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/0ea2b616c3b02806beaf4ac8fa5ec1b7/transformed/jetified-play-services-stats-17.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-stats/17.0.2/c0d58b8efa926b2c607984c54fb3d274490badd1/play-services-stats-17.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

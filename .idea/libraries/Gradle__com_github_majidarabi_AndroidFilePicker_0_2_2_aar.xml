@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.majidarabi:AndroidFilePicker:0.2.2@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/9bf059d0ffe02020d007b3ce411e583e/transformed/jetified-AndroidFilePicker-0.2.2/res" />
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/9bf059d0ffe02020d007b3ce411e583e/transformed/jetified-AndroidFilePicker-0.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/transforms-3/9bf059d0ffe02020d007b3ce411e583e/transformed/jetified-AndroidFilePicker-0.2.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../android-studio-2022.2.1.20-linux/Gradle/caches/modules-2/files-2.1/com.github.majidarabi/AndroidFilePicker/0.2.2/e8e31800f0ef4bff12a649ed154eb3d21ec5322a/AndroidFilePicker-0.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
